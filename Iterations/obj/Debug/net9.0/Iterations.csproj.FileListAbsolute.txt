@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\Iterations\bin\Debug\net9.0\Iterations.exe
+C:\Users\kscics\Desktop\naca-121\Iterations\bin\Debug\net9.0\Iterations.deps.json
+C:\Users\kscics\Desktop\naca-121\Iterations\bin\Debug\net9.0\Iterations.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\Iterations\bin\Debug\net9.0\Iterations.dll
+C:\Users\kscics\Desktop\naca-121\Iterations\bin\Debug\net9.0\Iterations.pdb
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.dll
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\refint\Iterations.dll
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.pdb
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\Iterations.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\Iterations\obj\Debug\net9.0\ref\Iterations.dll

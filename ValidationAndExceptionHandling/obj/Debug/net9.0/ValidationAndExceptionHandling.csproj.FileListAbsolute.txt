@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\bin\Debug\net9.0\ValidationAndExceptionHandling.exe
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\bin\Debug\net9.0\ValidationAndExceptionHandling.deps.json
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\bin\Debug\net9.0\ValidationAndExceptionHandling.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\bin\Debug\net9.0\ValidationAndExceptionHandling.dll
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\bin\Debug\net9.0\ValidationAndExceptionHandling.pdb
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.dll
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\refint\ValidationAndExceptionHandling.dll
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.pdb
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ValidationAndExceptionHandling.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\ValidationAndExceptionHandling\obj\Debug\net9.0\ref\ValidationAndExceptionHandling.dll

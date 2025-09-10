@@ -3,6 +3,9 @@ Marker blueMarker = new Marker(); //blue marker using default constructor
 Marker blackMarker = new Marker(); //black marker using default constructor
 Marker redMarker = new Marker(30, true, "Red"); //red marker using parametrized constructor
 
+
+//show the value of the default before changed
+PrintMarkerInfo(blueMarker);
 //assigning values to the class
 
 //blue marker value

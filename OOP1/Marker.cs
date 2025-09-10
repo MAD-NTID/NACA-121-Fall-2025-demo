@@ -8,7 +8,10 @@ public class Marker
     //Default constructor
     public Marker()
     {
-        
+        //setting up default values
+        inkLevel = 0;
+        isCapOn = true;
+        color = "N/A";
     }
 
     //Parameterized constructor

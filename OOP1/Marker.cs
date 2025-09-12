@@ -17,9 +17,25 @@ public class Marker
     //Parameterized constructor
     public Marker(double level, bool covered, string colorLabel)
     {
-        inkLevel = level;
+        if (level < 0)
+        {
+            inkLevel = 0;
+        }
+        else
+        {
+            inkLevel = level;
+        }
+        if (string.IsNullOrEmpty(colorLabel))
+        {
+            color = "N/A";
+        }
+        else
+        {
+            color = colorLabel;
+        }
+        
         isCapOn = covered;
-        color = colorLabel;
+        
     }
 
 

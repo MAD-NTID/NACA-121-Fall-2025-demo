@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarFleet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ea3730557a41154075daef6b08478364f3a664f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5bea5d21ca2f6134a07879b4573324237f4aa1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarFleet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarFleet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\abstract\bin\Debug\net9.0\abstract.exe
+C:\Users\kscics\Desktop\naca-121\abstract\bin\Debug\net9.0\abstract.deps.json
+C:\Users\kscics\Desktop\naca-121\abstract\bin\Debug\net9.0\abstract.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\abstract\bin\Debug\net9.0\abstract.dll
+C:\Users\kscics\Desktop\naca-121\abstract\bin\Debug\net9.0\abstract.pdb
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.dll
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\refint\abstract.dll
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.pdb
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\abstract.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\abstract\obj\Debug\net9.0\ref\abstract.dll

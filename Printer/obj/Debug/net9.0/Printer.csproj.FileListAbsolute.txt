@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\Printer\bin\Debug\net9.0\Printer.exe
+C:\Users\kscics\Desktop\naca-121\Printer\bin\Debug\net9.0\Printer.deps.json
+C:\Users\kscics\Desktop\naca-121\Printer\bin\Debug\net9.0\Printer.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\Printer\bin\Debug\net9.0\Printer.dll
+C:\Users\kscics\Desktop\naca-121\Printer\bin\Debug\net9.0\Printer.pdb
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.dll
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\refint\Printer.dll
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.pdb
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\Printer.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\Printer\obj\Debug\net9.0\ref\Printer.dll

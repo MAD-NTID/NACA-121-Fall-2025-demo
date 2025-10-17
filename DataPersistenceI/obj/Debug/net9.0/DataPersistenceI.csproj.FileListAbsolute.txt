@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\bin\Debug\net9.0\DataPersistenceI.exe
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\bin\Debug\net9.0\DataPersistenceI.deps.json
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\bin\Debug\net9.0\DataPersistenceI.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\bin\Debug\net9.0\DataPersistenceI.dll
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\bin\Debug\net9.0\DataPersistenceI.pdb
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.dll
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\refint\DataPersistenceI.dll
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.pdb
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\DataPersistenceI.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\DataPersistenceI\obj\Debug\net9.0\ref\DataPersistenceI.dll

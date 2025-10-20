@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Kemoy",
+    "Kills": 10,
+    "Deaths": 2,
+    "Losses": 20,
+    "Wins": 300,
+    "Matches": 500
+  },
+  {
+    "Name": "Amber",
+    "Kills": 100,
+    "Deaths": 20,
+    "Losses": 200,
+    "Wins": 3000,
+    "Matches": 5000
+  },
+  {
+    "Name": "Nai",
+    "Kills": -5,
+    "Deaths": 20,
+    "Losses": 2000,
+    "Wins": 30000,
+    "Matches": 50000
+  }
+]

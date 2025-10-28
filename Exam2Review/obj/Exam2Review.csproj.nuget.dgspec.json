@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kscics\\Desktop\\naca-121\\Exam2Review\\Exam2Review.csproj": {}
+    "C:\\Users\\kscics\\Desktop\\NACA-121-Fall-2025-demo\\Exam2Review\\Exam2Review.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kscics\\Desktop\\naca-121\\Exam2Review\\Exam2Review.csproj": {
+    "C:\\Users\\kscics\\Desktop\\NACA-121-Fall-2025-demo\\Exam2Review\\Exam2Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kscics\\Desktop\\naca-121\\Exam2Review\\Exam2Review.csproj",
+        "projectUniqueName": "C:\\Users\\kscics\\Desktop\\NACA-121-Fall-2025-demo\\Exam2Review\\Exam2Review.csproj",
         "projectName": "Exam2Review",
-        "projectPath": "C:\\Users\\kscics\\Desktop\\naca-121\\Exam2Review\\Exam2Review.csproj",
+        "projectPath": "C:\\Users\\kscics\\Desktop\\NACA-121-Fall-2025-demo\\Exam2Review\\Exam2Review.csproj",
         "packagesPath": "C:\\Users\\kscics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kscics\\Desktop\\naca-121\\Exam2Review\\obj\\",
+        "outputPath": "C:\\Users\\kscics\\Desktop\\NACA-121-Fall-2025-demo\\Exam2Review\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

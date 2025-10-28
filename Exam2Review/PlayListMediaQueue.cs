@@ -22,4 +22,9 @@ public class PlayListMediaQueue<T> : PlayListMedia<T>
     {
         return queue.Peek();
     }
+
+    public override string ToString()
+    {
+        return "Queue playlist:" + queue.ToString();
+    }
 }

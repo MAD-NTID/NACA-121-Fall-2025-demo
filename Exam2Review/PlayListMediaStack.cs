@@ -26,6 +26,6 @@ public class PlayListMediaStack<T> : PlayListMedia<T>
 
     public override string ToString()
     {
-        return "Stack playlist:" + base.ToString();
+        return "Stack playlist:" + stack.ToString();
     }
 }

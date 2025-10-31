@@ -85,7 +85,24 @@ public class Stack<T>
 
     public T[] ToArray()
     {
+        int size = count;
+        T[] elements = new T[size];
+        int index = 0;
+
+        //top secret code here
+      //make a copy so we dont destroy the orignal
+        Node<T> copy = top;
+        while (copy != null)
+        {
+            elements[index] = copy.Data;
+            index++;
+            //move up the copy
+            copy = copy.Next;
+            
+        }
         
+
+        return elements;
     }
 
     public override string ToString()

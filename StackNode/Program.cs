@@ -11,6 +11,12 @@ myStack.Push( "quick" );
 myStack.Push( "brown" );
 myStack.Push("fox");
 
+string[] elements = myStack.ToArray();
+for(int i = 0; i < elements.Length; i++)
+{
+    Console.WriteLine(elements[i]);
+}
+
 Console.WriteLine(myStack);
 Console.WriteLine("Contain The?" + myStack.Contains("The"));
 Console.WriteLine(myStack);

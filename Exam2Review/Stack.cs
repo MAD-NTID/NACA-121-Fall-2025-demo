@@ -44,12 +44,12 @@ public class Stack<T>
 
     public override string ToString()
     {
-        if (size == 0)
-            return "null";
 
         string info = "";
+        
+        //start from the back of the array
 
-        for (int i = size - 1; i < size; i++)
+        for (int i = size - 1; i >=0; i--)
         {
             info += elements[i] + "-->";
         }

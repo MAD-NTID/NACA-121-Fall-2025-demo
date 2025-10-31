@@ -33,7 +33,7 @@ public class Queue<T>
         elements[back] = element;
         size++;
     }
-    
+
     public T Dequeue()
     {
         if (size == 0)
@@ -44,6 +44,24 @@ public class Queue<T>
         elements[front] = default;
         front = (front + 1) % elements.Length;
         return temp;
+    }
+    
+    public override string ToString()
+    {
+        if (size == 0)
+            return "null";
+
+        string info = "";
+        int count = 0;
+        int index = front;
+        while(count < size)
+        {
+            info += elements[index] + "-->";
+            index = (index + 1) % elements.Length;
+            count++;
+        }
+
+        return info + "null";
     }
 
 }

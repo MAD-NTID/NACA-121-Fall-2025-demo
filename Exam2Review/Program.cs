@@ -33,10 +33,25 @@ while (!reader.EndOfStream)
 }
 
 reader.Close();
+Console.WriteLine("File loading complete");
+
+Console.WriteLine();
 Console.WriteLine($"All files are loaded from {filename}");
 
 //show stack playlist
+Console.WriteLine(playListStack.ToString());
 
 //show queue playlist
+Console.WriteLine(playListQueue.ToString());
 
 //write to file
+Console.WriteLine("Writing the stack playlist to the file results.txt");
+StreamWriter writer = new StreamWriter("results.txt");
+writer.WriteLine("Stack\n====================");
+while (playListStack.TotalMedia > 0)
+{
+    writer.WriteLine($"Next: {playListStack.ShowNextMedia()}");
+    writer.WriteLine($"Playing: {playListStack.Play()}");
+}
+writer.Close();
+Console.WriteLine("Stack playlist writing complete");

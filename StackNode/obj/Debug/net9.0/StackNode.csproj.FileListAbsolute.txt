@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\StackNode\bin\Debug\net9.0\StackNode.exe
+C:\Users\kscics\Desktop\naca-121\StackNode\bin\Debug\net9.0\StackNode.deps.json
+C:\Users\kscics\Desktop\naca-121\StackNode\bin\Debug\net9.0\StackNode.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\StackNode\bin\Debug\net9.0\StackNode.dll
+C:\Users\kscics\Desktop\naca-121\StackNode\bin\Debug\net9.0\StackNode.pdb
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.dll
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\refint\StackNode.dll
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.pdb
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\StackNode.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\StackNode\obj\Debug\net9.0\ref\StackNode.dll

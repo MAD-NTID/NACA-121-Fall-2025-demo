@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\QueueNode\bin\Debug\net9.0\QueueNode.exe
+C:\Users\kscics\Desktop\naca-121\QueueNode\bin\Debug\net9.0\QueueNode.deps.json
+C:\Users\kscics\Desktop\naca-121\QueueNode\bin\Debug\net9.0\QueueNode.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\QueueNode\bin\Debug\net9.0\QueueNode.dll
+C:\Users\kscics\Desktop\naca-121\QueueNode\bin\Debug\net9.0\QueueNode.pdb
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.dll
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\refint\QueueNode.dll
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.pdb
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\QueueNode.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\QueueNode\obj\Debug\net9.0\ref\QueueNode.dll

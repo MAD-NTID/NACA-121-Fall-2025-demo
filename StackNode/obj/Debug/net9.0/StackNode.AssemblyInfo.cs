@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19f1cdeb45a925e8e6cc87fe5c02dedfb9e63817")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+518e9adcf834a3ff072146c0bdd99fa7a4c06772")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

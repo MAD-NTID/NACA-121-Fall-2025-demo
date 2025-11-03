@@ -1,10 +1,12 @@
-public class Stack<T>
+using System.Collections;
+
+public class Stack<T> : IEnumerable
 {
     private int capacity;
     private const int UNLIMITED = -1;
     private Node<T> top;
     private int count;
-    public int Count { get{ return count; } }
+    public int Count { get { return count; } }
 
 
     public Stack()
@@ -90,7 +92,7 @@ public class Stack<T>
         int index = 0;
 
         //top secret code here
-      //make a copy so we dont destroy the orignal
+        //make a copy so we dont destroy the orignal
         Node<T> copy = top;
         while (copy != null)
         {
@@ -98,11 +100,28 @@ public class Stack<T>
             index++;
             //move up the copy
             copy = copy.Next;
-            
+
         }
-        
+
 
         return elements;
+    }
+
+    public IEnumerator<T> enumerator()
+    {
+        Node<T> copy = top;
+        while (copy != null)
+        {
+            yield return copy.Data;
+            //move up the copy
+            copy = copy.Next;
+
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return enumerator();
     }
 
     public override string ToString()

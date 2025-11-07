@@ -14,6 +14,12 @@ dictionary.Add("5", "Roger");
 dictionary.Add("6", "Goku");
 dictionary.Add("7", "Naruto");
 
+for(int i = 100; i < 150000000; i++)
+{
+    Console.WriteLine($"Adding {i} to the dictionary");
+    dictionary.Add(i.ToString(), i.ToString());
+}
+
 
 Console.WriteLine($"Count:{dictionary.Count}");
 

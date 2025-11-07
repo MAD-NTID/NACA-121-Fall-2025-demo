@@ -1,3 +1,5 @@
+using System.Runtime.InteropServices;
+
 public class Dictionary<TKey, TValue>
 {
     private int capacity;
@@ -7,7 +9,7 @@ public class Dictionary<TKey, TValue>
     public int Count { get { return count; } }
 
     private IKeyValuePair<TKey, TValue>[] buckets;
-    //private const double LOAD_FACTOR = 0.70; - hold for friday
+    private const double LOAD_FACTOR = 0.70;
 
     public Dictionary()
     {
@@ -26,14 +28,49 @@ public class Dictionary<TKey, TValue>
         return hash;
     }
 
+    public int LinearProbe(TKey key, bool existingKey = false)
+    {
+        //start at a specific index
+        int startIndex = this.GetIndex(key);
+        int index = startIndex;
+
+        do
+        {
+            IKeyValuePair<TKey, TValue> kvp = this.buckets[index];
+
+            //we are searching for existing key
+            if(existingKey && kvp is not null){
+                if(EqualityComparer<TKey>.Default.Equals(key, kvp.Key))
+                    return index;
+            } 
+            //we are not in search for existing key mode
+            else if(!existingKey && kvp is null) 
+            {
+                return index;
+            }
+
+            index = (index + 1)  % capacity;
+
+        }while(startIndex!=index);
+
+
+        return -1;
+
+
+    }
+
     public void Add(TKey key, TValue value)
     {
         if (ContainsKey(key))
             throw new Exception($"Cannot contain duplicate key:{key}!");
 
+
+        //grow if need to
+        EnsureCapacity();
+
         //make the pair
         IKeyValuePair<TKey, TValue> kvp = new KeyValuePair<TKey, TValue>(key, value);
-        int index = GetIndex(key);
+        int index = LinearProbe(key);
         buckets[index] = kvp;
         count++;
         // items = IKeyValuePair<key, value>
@@ -44,8 +81,8 @@ public class Dictionary<TKey, TValue>
         if (!ContainsKey(key))
             throw new Exception($"Cannot remove non-existence key:{key}");
 
-        int index = GetIndex(key);
-        buckets[index] = null;
+        int index = LinearProbe(key, true);
+        buckets[index] = default;
         count--;
         return true;
     }
@@ -53,15 +90,12 @@ public class Dictionary<TKey, TValue>
     public bool ContainsKey(TKey key)
     {
         //get the location to check "hash function"
-        int index = GetIndex(key);
+        int index = LinearProbe(key, true);
 
-        //check if location is not null
-        IKeyValuePair<TKey, TValue> kvp = buckets[index];
-        if (kvp is null)
+
+        if (index ==-1)
             return false;
 
-        // if (!EqualityComparer<TKey>.Default.Equals(key, kvp.Key))
-        //     return false;
 
         return true;
     }
@@ -76,7 +110,7 @@ public class Dictionary<TKey, TValue>
     {
         if (ContainsKey(key))
         {
-            int index = GetIndex(key);
+            int index = LinearProbe(key, true);
             IKeyValuePair<TKey, TValue> kvp = buckets[index];
             return kvp;
         }
@@ -100,6 +134,27 @@ public class Dictionary<TKey, TValue>
         }
 
         return false;
+    }
+
+    public void EnsureCapacity()
+    {
+        double percent = this.count / (double)this.capacity;
+        //check threshold
+        if (percent >= LOAD_FACTOR)
+        {
+
+            this.capacity *= 2;
+            Console.WriteLine($"I Grew to capacity size:{capacity}");
+            IKeyValuePair<TKey, TValue>[] bucketCopy = new IKeyValuePair<TKey, TValue>[capacity];
+
+            for (int i = 0; i < buckets.Length; i++)
+            {
+                bucketCopy[i] = buckets[i];
+            }
+
+            //overwrite old buckets with new copy
+            buckets = bucketCopy;
+        }
     }
     
 

@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\lambdaOne\bin\Debug\net9.0\lambdaOne.exe
+C:\Users\kscics\Desktop\naca-121\lambdaOne\bin\Debug\net9.0\lambdaOne.deps.json
+C:\Users\kscics\Desktop\naca-121\lambdaOne\bin\Debug\net9.0\lambdaOne.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\lambdaOne\bin\Debug\net9.0\lambdaOne.dll
+C:\Users\kscics\Desktop\naca-121\lambdaOne\bin\Debug\net9.0\lambdaOne.pdb
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.dll
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\refint\lambdaOne.dll
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.pdb
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\lambdaOne.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\lambdaOne\obj\Debug\net9.0\ref\lambdaOne.dll

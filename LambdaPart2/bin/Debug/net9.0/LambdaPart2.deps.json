@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LambdaPart2/1.0.0": {
+        "runtime": {
+          "LambdaPart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LambdaPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

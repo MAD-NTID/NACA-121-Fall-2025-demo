@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\bin\Debug\net9.0\LambdaPart2.exe
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\bin\Debug\net9.0\LambdaPart2.deps.json
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\bin\Debug\net9.0\LambdaPart2.runtimeconfig.json
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\bin\Debug\net9.0\LambdaPart2.dll
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\bin\Debug\net9.0\LambdaPart2.pdb
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.AssemblyInfo.cs
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.sourcelink.json
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.dll
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\refint\LambdaPart2.dll
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.pdb
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\LambdaPart2.genruntimeconfig.cache
+C:\Users\kscics\Desktop\naca-121\LambdaPart2\obj\Debug\net9.0\ref\LambdaPart2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+3hROREDBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\naca-121\\FinalExamReview\\FinalExamReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kscics\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
